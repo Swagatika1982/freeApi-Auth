@@ -61,7 +61,7 @@ GET /users/current-user
 ## Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Swagatika1982/freeApi-Auth.git
 ```
 
 ## Move Into Project Folder
@@ -112,18 +112,6 @@ freeapi-auth-app/
 
 ---
 
-# Important Note
-
-This project uses:
-
-```js
-credentials: "include"
-```
-
-to handle authentication cookies and sessions properly.
-
----
-
 # Learning Outcomes
 
 - Understanding frontend authentication flow
@@ -133,16 +121,7 @@ to handle authentication cookies and sessions properly.
 - Working with asynchronous API requests
 - Using Tailwind CSS with Vite
 
----
 
-# Future Improvements
-
-- Protected Routes
-- Password Visibility Toggle
-- Better Form Validation
-- Dashboard Page
-- Persistent Authentication State
-- Improved Error Handling
 
 ---
 
